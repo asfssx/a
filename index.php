@@ -1,2 +1,1 @@
-aaaa\\
-<?php echo 'a'?>
+aaaa
